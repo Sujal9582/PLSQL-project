@@ -6,7 +6,7 @@
 ## Project Overview
 The Smart Parking System automates the management of parking spaces and calculates parking charges based on the duration of parking.
 
-**Parking Slot Management:**
+--**Parking Slot Management:**
 Tracks parking slot availability and assigns vehicles to slots.
 Each slot has a status (available or occupied).
 
