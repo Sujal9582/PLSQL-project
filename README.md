@@ -1,6 +1,6 @@
 # PLSQL-PROJECT-ZENSAR
 # **Name**: Sujal Ganngadhar Sahane
- ** Contact**:Smart Parking System
+ ** Contact**:sahanesujal@gmail.com
 
 ## Project Overview
 The Smart Parking System automates the management of parking spaces and calculates parking charges based on the duration of parking.
