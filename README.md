@@ -10,7 +10,7 @@ The Smart Parking System automates the management of parking spaces and calculat
 -**Triggers**: Automatically updates slot availability when vehicles enter or exit.
 -**Charge Calculation**: Calculates parking charges based on the vehicle's duration of stay and type (car or bike). Cars are charged $10 per hour, and bikes are charged $5 per hour.
 
-##Main Objective
+## Main Objective
 **Efficient Parking Slot Management:**
 -Automates tracking of available and occupied parking slots.
 **Real-Time Slot Availability:**
